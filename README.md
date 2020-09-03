@@ -1,0 +1,2 @@
+# saws
+Simplied AWS (cli)
